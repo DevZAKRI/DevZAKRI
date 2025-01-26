@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm DevZAKRI! 👋
 
-<!--
-**DevZAKRI/DevZAKRI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a developer passionate about building cool and innovative projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Tech Stack](https://img.shields.io/badge/Tech_Stack-Javascript-blue)
+
+- **Languages**: Go, JavaScript, C
+- **Frontend**: HTML, CSS
+- **Backend**: Node.js, Go, C
+- **Tools**: Git, Docker, VS Code, Nano
+- **Database**: SQLite, SQL
+
+## 🚀 Projects
+
+
+Coming Soon
+<!-- Here are some of the cool projects I’ve worked on: -->
+
+<!-- - [**Project One**](https://github.com/yourusername/project-one) - Description of project one.
+- [**Project Two**](https://github.com/yourusername/project-two) - Description of project two. -->
+  
+## 📚 Blog Posts
+
+Coming Soon
+<!-- I love sharing what I learn! Check out my blog posts:
+
+- [How to Build a REST API with Go](https://medium.com/@yourusername/how-to-build-a-rest-api-with-go)
+- [JavaScript Tips & Tricks](https://medium.com/@yourusername/javascript-tips-tricks) -->
+
+## 🧑‍💻 About Me
+
+I'm a software Developer and CyberSecurity enthusiast who loves tackling challenging problems and building scalable apps. In my free time, I enjoy learning about new technologies.
+
+- 🌍 Location: Oujda, Morocco
+- 🌱 Currently learning: Advanced Go programming / Event-driven programming / Software security. 
+- 📫 How to reach me: [3tern4llord@gmail.com](mailto:3tern4llord@gmail.com)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=devzakri&show_icons=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devzakri&layout=compact)
