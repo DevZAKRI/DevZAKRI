@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building cool and
 
 - **Languages**: Go, JavaScript, C
 - **Frontend**: HTML, CSS
-- **Backend**: Node.js, Go, C
+- **Backend**: Node.js, Go
 - **Tools**: Git, Docker, VS Code, Nano
 - **Database**: SQLite, SQL
 
