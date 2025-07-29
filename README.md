@@ -16,7 +16,7 @@
 I'm a passionate **Software Developer** and **Cybersecurity Enthusiast** from Oujda, Morocco, who loves tackling challenging problems and building scalable applications. I enjoy exploring new technologies and continuously improving my craft.
 
 - 🌍 **Location**: Oujda, Morocco
-- 🌱 **Currently learning**: Advanced Go programming, Event-driven programming, Software security
+- 🌱 **Currently learning**: Rust programming, Advanced Go programming, Event-driven programming, Software security
 - 💼 **Open to**: Collaboration on interesting projects
 - 🎯 **Focus**: Building secure, efficient, and scalable solutions
 - 📫 **Reach me**: [3tern4llord@gmail.com](mailto:3tern4llord@gmail.com)
@@ -30,6 +30,7 @@ I'm a passionate **Software Developer** and **Cybersecurity Enthusiast** from Ou
 <p align="left">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
 </p>
 
@@ -69,10 +70,11 @@ I'm a passionate **Software Developer** and **Cybersecurity Enthusiast** from Ou
 
 ### 🔗 Coming Soon
 I'm currently working on some exciting projects that will be showcased here soon! Stay tuned for:
+- **High-Performance Web Services** built with Rust
 - **Secure Web Applications** built with Go
 - **Cybersecurity Tools** and utilities
 - **Full-stack JavaScript Applications**
-- **System Programming Projects** in C
+- **System Programming Projects** in C and Rust
 
 ---
 
@@ -83,6 +85,7 @@ I'm currently working on some exciting projects that will be showcased here soon
 </div>
 
 ### � Current Focus Areas
+- **Rust Programming**: Memory safety, performance, and concurrent systems
 - **Advanced Go Programming**: Microservices, concurrency patterns
 - **Event-Driven Architecture**: Building scalable systems
 - **Cybersecurity**: Penetration testing, secure coding practices
@@ -90,6 +93,7 @@ I'm currently working on some exciting projects that will be showcased here soon
 
 ### 📖 Blog Posts (Coming Soon)
 I'm planning to share my journey and learnings through blog posts on:
+- Rust for JavaScript developers: A comprehensive guide
 - Go best practices and advanced patterns
 - Cybersecurity insights and tutorials
 - System design and architecture
