@@ -1,0 +1,14 @@
+{
+  "name": "Rust Learning Project",
+  "version": "1.0.0",
+  "author": "DevZAKRI",
+  "description": "Learning Rust coming from JavaScript background",
+  "technologies": [
+    "Rust",
+    "Axum",
+    "Tokio",
+    "Serde",
+    "Clap"
+  ],
+  "created_at": "2025-07-29T11:18:49.635212139+00:00"
+}
